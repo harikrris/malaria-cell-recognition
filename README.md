@@ -40,8 +40,8 @@ Fit the model and predict the sample input.
 ## PROGRAM
 
 ```python
-# Developed By:Tamil Venthan R S
-# Register Number:212220230054
+# Developed By:Sri hari krishnan R
+# Register Number:212219040150
 import os
 import pandas as pd
 import numpy as np
